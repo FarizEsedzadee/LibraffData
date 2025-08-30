@@ -1,0 +1,511 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "The Emperor of Gladness",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Ocean Vuong",
+            "publisher": "Random House",
+            "language": "English",
+            "published_date": "2025-05-XX",
+            "pages": 320,
+            "genres": [
+                "Fiction",
+                "Coming‑of‑Age"
+            ],
+            "description": "A coming‑of‑age novel about unlikely friendship and resilience on society’s fringes.",
+            "price": {
+                "currency": "USD",
+                "amount": 29.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.5,
+            "reviews_count": 850
+        },
+        {
+            "id": "2",
+            "title": "Atmosphere",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Taylor Jenkins Reid",
+            "publisher": "Ballantine Books",
+            "language": "English",
+            "published_date": "2025-03-XX",
+            "pages": 368,
+            "genres": [
+                "Fiction",
+                "Historical",
+                "Romance"
+            ],
+            "description": "A love story set during the 1980s space shuttle program, emotional and fast‑paced.",
+            "price": {
+                "currency": "USD",
+                "amount": 30.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.6,
+            "reviews_count": 1200
+        },
+        {
+            "id": "3",
+            "title": "We Do Not Part",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Han Kang",
+            "publisher": "Riverhead Books",
+            "language": "English",
+            "published_date": "2025-01-25",
+            "pages": 272,
+            "genres": [
+                "Literary Fiction",
+                "Historical"
+            ],
+            "description": "Explores a profound friendship between two women and a hidden chapter in Korean history.",
+            "price": {
+                "currency": "USD",
+                "amount": 29.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.4,
+            "reviews_count": 540
+        },
+        {
+            "id": "4",
+            "title": "The Fallen & the Kiss of Dusk",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Carissa Broadbent",
+            "publisher": "Sourcebooks Fire",
+            "language": "English",
+            "published_date": "2025-08-XX",
+            "pages": 400,
+            "genres": [
+                "Romance",
+                "Fantasy"
+            ],
+            "description": "A fantasy romance best‑seller in hardcover fiction.",
+            "price": {
+                "currency": "USD",
+                "amount": 27.95,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.2,
+            "reviews_count": 300
+        },
+        {
+            "id": "5",
+            "title": "My Friends",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Fredrik Backman",
+            "publisher": "Simon & Schuster",
+            "language": "English",
+            "published_date": "2025-07-XX",
+            "pages": 304,
+            "genres": [
+                "Fiction",
+                "Contemporary"
+            ],
+            "description": "A touching, multigenerational bond between a teenage runaway and a retired teacher.",
+            "price": {
+                "currency": "USD",
+                "amount": 28.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.7,
+            "reviews_count": 950
+        },
+        {
+            "id": "6",
+            "title": "Sweetener",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Marissa Higgins",
+            "publisher": "Vogue Press",
+            "language": "English",
+            "published_date": "2025-08-XX",
+            "pages": 320,
+            "genres": [
+                "LGBTQ+",
+                "Romance"
+            ],
+            "description": "A sapphic romance involving two separated wives unknowingly dating the same woman.",
+            "price": {
+                "currency": "USD",
+                "amount": 26.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.3,
+            "reviews_count": 420
+        },
+        {
+            "id": "7",
+            "title": "The Stolen Queen",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Fiona Davis",
+            "publisher": "Atria Books",
+            "language": "English",
+            "published_date": "2025-04-XX",
+            "pages": 384,
+            "genres": [
+                "Historical Fiction",
+                "Mystery"
+            ],
+            "description": "An addictive novel transporting from glamorous NYC parties to the labyrinth streets of Cairo.",
+            "price": {
+                "currency": "USD",
+                "amount": 29.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.1,
+            "reviews_count": 610
+        },
+        {
+            "id": "8",
+            "title": "No More Tears",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Gardiner Harris",
+            "publisher": "Harper",
+            "language": "English",
+            "published_date": "2025-05-XX",
+            "pages": 352,
+            "genres": [
+                "Non‑Fiction",
+                "Investigative"
+            ],
+            "description": "An explosive exposé of Johnson & Johnson’s corruption.",
+            "price": {
+                "currency": "USD",
+                "amount": 32.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.0,
+            "reviews_count": 220
+        },
+        {
+            "id": "9",
+            "title": "King of Kings",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Scott Anderson",
+            "publisher": "Knopf",
+            "language": "English",
+            "published_date": "2025-08-XX",
+            "pages": 368,
+            "genres": [
+                "Historical Non‑Fiction"
+            ],
+            "description": "Explores the 1979 Iranian Revolution and its geopolitical impact.",
+            "price": {
+                "currency": "USD",
+                "amount": 30.00,
+                "discount": 0.0
+            },
+            "availability": "Pre‑order",
+            "rating": 4.5,
+            "reviews_count": 140
+        },
+        {
+            "id": "10",
+            "title": "Katabasis",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "R.F. Kuang",
+            "publisher": "Harper Voyager",
+            "language": "English",
+            "published_date": "2025-08-XX",
+            "pages": 384,
+            "genres": [
+                "Fantasy",
+                "Satire"
+            ],
+            "description": "An academic satire wrapped in a fantastical descent into Hell.",
+            "price": {
+                "currency": "USD",
+                "amount": 28.00,
+                "discount": 0.0
+            },
+            "availability": "Pre‑order",
+            "rating": 4.4,
+            "reviews_count": 220
+        },
+        {
+            "id": "11",
+            "title": "The Magician of Tiger Castle",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Louis Sachar",
+            "publisher": "Farrar, Straus and Giroux",
+            "language": "English",
+            "published_date": "2025-08-XX",
+            "pages": 320,
+            "genres": [
+                "Fantasy",
+                "Adult Fiction"
+            ],
+            "description": "Louis Sachar’s adult fiction debut, whimsical fantasy likened to a D&D campaign.",
+            "price": {
+                "currency": "USD",
+                "amount": 27.00,
+                "discount": 0.0
+            },
+            "availability": "Pre‑order",
+            "rating": 4.3,
+            "reviews_count": 180
+        },
+        {
+            "id": "12",
+            "title": "Sister Europe",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Nell Zink",
+            "publisher": "Knopf",
+            "language": "English",
+            "published_date": "2025-03-XX",
+            "pages": 344,
+            "genres": [
+                "Literary Fiction",
+                "Humor"
+            ],
+            "description": "A picaresque Berlin hangout novel full of comic edge and modern manners.",
+            "price": {
+                "currency": "USD",
+                "amount": 28.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.2,
+            "reviews_count": 360
+        },
+        {
+            "id": "13",
+            "title": "Flesh",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "David Szalay",
+            "publisher": "Scribner",
+            "language": "English",
+            "published_date": "2025-04-XX",
+            "pages": 288,
+            "genres": [
+                "Literary Fiction",
+                "Satire"
+            ],
+            "description": "A satirical journey through class, sex, and society spans decades in a man's life.",
+            "price": {
+                "currency": "USD",
+                "amount": 29.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.1,
+            "reviews_count": 250
+        },
+        {
+            "id": "14",
+            "title": "So Far Gone",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Jess Walter",
+            "publisher": "Harper",
+            "language": "English",
+            "published_date": "2025-06-XX",
+            "pages": 320,
+            "genres": [
+                "Fiction",
+                "Political Comedy"
+            ],
+            "description": "A political climate comedy about a curmudgeonly man retreating to rural Oregon.",
+            "price": {
+                "currency": "USD",
+                "amount": 30.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.0,
+            "reviews_count": 300
+        },
+        {
+            "id": "15",
+            "title": "Beautiful Ugly",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Alice Feeney",
+            "publisher": "Flatiron Books",
+            "language": "English",
+            "published_date": "2025-01-14",
+            "pages": 352,
+            "genres": [
+                "Thriller",
+                "Mystery"
+            ],
+            "description": "A heart‑pounding thriller: a wife goes missing, and a year later a possible sighting on a Scottish island.",
+            "price": {
+                "currency": "USD",
+                "amount": 27.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.3,
+            "reviews_count": 480
+        },
+        {
+            "id": "16",
+            "title": "Onyx Storm",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Rebecca Yarros",
+            "publisher": "Entangled: Teen",
+            "language": "English",
+            "published_date": "2025-01-21",
+            "pages": 448,
+            "genres": [
+                "Fantasy",
+                "Young Adult",
+                "Adventure"
+            ],
+            "description": "The third installment in the Empyrean series—high‑stakes fantasy and adventure.",
+            "price": {
+                "currency": "USD",
+                "amount": 25.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.5,
+            "reviews_count": 650
+        },
+        {
+            "id": "17",
+            "title": "The Note",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Alafair Burke",
+            "publisher": "Minotaur Books",
+            "language": "English",
+            "published_date": "2025-???-XX",
+            "pages": 320,
+            "genres": [
+                "Suspense",
+                "Thriller"
+            ],
+            "description": "A suspenseful story of a prank among friends in the Hamptons that goes terribly wrong.",
+            "price": {
+                "currency": "USD",
+                "amount": 29.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.2,
+            "reviews_count": 400
+        },
+        {
+            "id": "18",
+            "title": "Good Dirt",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Charmaine Wilkerson",
+            "publisher": "Pamela Dorman Books",
+            "language": "English",
+            "published_date": "2025-04-XX",
+            "pages": 336,
+            "genres": [
+                "Fiction",
+                "Family Saga"
+            ],
+            "description": "A daughter pieces together childhood tragedy and a beloved heirloom.",
+            "price": {
+                "currency": "USD",
+                "amount": 30.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.0,
+            "reviews_count": 300
+        },
+        {
+            "id": "19",
+            "title": "Matriarch",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Tina Knowles",
+            "publisher": "Clarkson Potter",
+            "language": "English",
+            "published_date": "2025-05-XX",
+            "pages": 320,
+            "genres": [
+                "Memoir",
+                "Biography"
+            ],
+            "description": "A revealing multigenerational family saga and story of Black motherhood.",
+            "price": {
+                "currency": "USD",
+                "amount": 35.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.3,
+            "reviews_count": 500
+        },
+        {
+            "id": "20",
+            "title": "Mark Twain",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Ron Chernow",
+            "publisher": "Penguin Press",
+            "language": "English",
+            "published_date": "2025-05-XX",
+            "pages": 512,
+            "genres": [
+                "Biography",
+                "History"
+            ],
+            "description": "A comprehensive biography of Mark Twain by Ron Chernow.",
+            "price": {
+                "currency": "USD",
+                "amount": 45.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.6,
+            "reviews_count": 310
+        },
+        {
+            "id": "21",
+            "title": "The Names",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "David Szalay",
+            "publisher": "Penguin Random House",
+            "language": "English",
+            "published_date": "2025-07-XX",
+            "pages": 352,
+            "genres": [
+                "Literary Fiction",
+                "Experimental"
+            ],
+            "description": "A complex narrative showing one child’s fate under different given names.",
+            "price": {
+                "currency": "USD",
+                "amount": 30.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.2,
+            "reviews_count": 370
+        },
+        {
+            "id": "22",
+            "title": "Dream Count (Dream Count?)",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742227571i/218636419.jpg",
+            "author": "Chimamanda Ngozi Adichie",
+            "publisher": "Unknown",
+            "language": "English",
+            "published_date": "2025-06-XX",
+            "pages": 400,
+            "genres": [
+                "Fiction",
+                "Literary"
+            ],
+            "description": "A long‑awaited novel exploring the lives of African women across continents.",
+            "price": {
+                "currency": "USD",
+                "amount": 32.00,
+                "discount": 0.0
+            },
+            "availability": "In stock",
+            "rating": 4.5,
+            "reviews_count": 430
+        }
+    ]
+}
